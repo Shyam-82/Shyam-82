@@ -267,21 +267,9 @@ Worked on responsive full-stack applications while improving backend engineering
 
 </div>
 
----
 
-# GITHUB ANALYTICS
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shyam-82&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shyam-82&theme=tokyonight&hide_border=true&background=00000000" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam-82&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-
-</div>
-
----
 
 # GITHUB TROPHIES
 
