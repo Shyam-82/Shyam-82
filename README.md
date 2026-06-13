@@ -223,6 +223,154 @@ Worked on responsive full-stack applications while improving backend engineering
 </div>
 
 ---
+# CERTIFICATIONS
+
+<div align="center">
+
+### Codegnan IT Solutions
+
+<a href="https://drive.google.com/file/d/1hNjfgOENzaRc4g8hPg8RfFrYz6_UB1GU/view?usp=sharing">
+<img src="https://img.shields.io/badge/Python-Certified-5D3FD3?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1hNjfgOENzaRc4g8hPg8RfFrYz6_UB1GU/view?usp=sharing">
+<img src="https://img.shields.io/badge/MySQL-Certified-6A0DAD?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+
+<br><br>
+
+### Cisco Networking Academy
+
+<a href="https://drive.google.com/file/d/1JHvBYv5Rkd3nn4KJAEu5dKJKp2PIheet/view?usp=sharing">
+<img src="https://img.shields.io/badge/Python%20Essentials-Cisco-1E3A8A?style=for-the-badge&logo=cisco&logoColor=white"/>
+</a>
+
+<br><br>
+
+### EduSkills
+
+<a href="https://drive.google.com/file/d/11nHzoU94T6L1ypg7lw4ph-0BXThK9JC2/view?usp=sharing">
+<img src="https://img.shields.io/badge/AI--ML-Certified-7F00FF?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# CODING PROFILES
+
+<div align="center">
+
+<a href="https://www.hackerrank.com/profile/dammumohan828">
+<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shyam-82&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shyam-82&theme=tokyonight&hide_border=true&background=00000000" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam-82&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
+</div>
+
+---
+
+# GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shyam-82&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4" />
+
+</div>
+
+---
+
+# CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shyam-82&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%" />
+
+</div>
+
+
+
+# CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Shyam-82/Shyam-82/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+
+
+# CURRENT FOCUS
+
+
+Learning:
+  - AI Engineering
+  - Machine Learning
+  - Data Structures & Algorithms
+  - Backend Development
+
+Building:
+  - ATM Transaction Management System
+  - Student Information Portal
+  - Full Stack Applications
+
+Exploring:
+  - Intelligent Systems
+  - AI Agents
+  - Scalable Backend Architectures
+
+Open_To:
+  - Software Engineering Internships
+  - Full Stack Development Roles
+  - AI / ML Opportunities
+
+
+
+
+# CONNECT WITH ME
+
+<div align="center">
+
+<a href="mailto:dammumohan828@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shyam8">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Shyam-82">
+<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="tel:+918074451670">
+<img src="https://img.shields.io/badge/Phone-+91%208074451670-6A0DAD?style=for-the-badge&logo=googlemessages&logoColor=white"/>
+</a>
+
+</div>
+
+
+
+<div align="center">
+
+### *"Engineering scalable solutions through code, innovation, and continuous learning."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4B0082,25:5D3FD3,50:6A0DAD,75:7F00FF,100:1E3A8A"/>
+
+</div>
 
 
 
