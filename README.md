@@ -3,9 +3,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4B0082,25:5D3FD3,50:6A0DAD,75:7F00FF,100:1E3A8A&text=Dammu%20Mohan%20Shyam&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Software%20Engineer&descAlignY=58" width="100%" />
 
-# DAMMU MOHAN SHYAM | FULL STACK DEVELOPER & AI ENTHUSIAST
+# DAMMU MOHAN SHYAM | FULL STACK DEVELOPER
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=7F00FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Software+Engineering+Learner;Building+Scalable+Applications;Problem+Solver+%7C+Open+Source+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=7F00FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Software+Engineering+Learner;Backend+Developer;Building+Scalable+Applications;Problem+Solver+%7C+Open+Source+Learner" />
 
 <br>
 
@@ -38,7 +38,7 @@
 
 # ABOUT
 
-## Software Engineer | Full Stack Developer | AI Enthusiast
+## Software Engineer | Full Stack Developer
 
 I am a Full Stack Developer focused on building responsive, scalable, and user-focused applications using Python, Node.js, Express.js, MySQL, HTML, CSS, Bootstrap, and JavaScript.
 
