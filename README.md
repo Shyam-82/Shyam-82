@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4B0082,25:5D3FD3,50:6A0DAD,75:7F00FF,100:1E3A8A&text=Dammu%20Mohan%20Shyam&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Software%20Engineer&descAlignY=58" width="100%" />
@@ -34,7 +34,7 @@
 
 </div>
 
----
+
 
 # ABOUT
 
@@ -53,7 +53,7 @@ Currently learning AI Engineering, Machine Learning, Backend Systems, DSA, and s
 - AI / ML Opportunities
 - Open Source Contributions
 
----
+
 
 # TECH STACK
 
@@ -77,6 +77,5 @@ Currently learning AI Engineering, Machine Learning, Backend Systems, DSA, and s
 
 </div>
 
----
-```
+
 
