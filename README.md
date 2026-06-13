@@ -77,5 +77,153 @@ Currently learning AI Engineering, Machine Learning, Backend Systems, DSA, and s
 
 </div>
 
+# AI / ML EXPERTISE
+
+<div align="center">
+
+| Domain                  | Proficiency           | Details                                                         |
+| ----------------------- | --------------------- | --------------------------------------------------------------- |
+| Artificial Intelligence | Intermediate          | Exploring intelligent systems & automation                      |
+| Machine Learning        | Beginner–Intermediate | Learning model fundamentals & practical concepts                |
+| Computer Vision         | Intermediate          | Built gesture-based interaction system using OpenCV & MediaPipe |
+| Python Development      | Strong                | Backend logic, automation & problem solving                     |
+| Problem Solving         | Intermediate          | Active coding practice in Python & SQL                          |
+
+</div>
+
+---
+
+# FEATURED PROJECTS
+
+<details>
+<summary><b>ATM Transaction Management System</b></summary>
+
+<br>
+
+### Project Overview
+
+A secure **full-stack banking transaction system** built using **Node.js, Express.js, MySQL, EJS and MVC Architecture**.
+
+| Category    | Details                                      |
+| ----------- | -------------------------------------------- |
+| Stack       | Node.js, Express.js, MySQL, EJS, HTML5, CSS3 |
+| Scale       | Banking Transaction Simulation               |
+| Performance | Optimized DB transactions                    |
+| Security    | Session Authentication & PIN Verification    |
+| Impact      | Strengthened backend engineering skills      |
+| Repository  | Coming Soon                                  |
+
+### Key Features
+
+* Deposit & Withdrawal
+* Balance Enquiry
+* PIN Verification
+* Transaction History
+* Session-based Authentication
+* MySQL Database Integration
+
+</details>
+
+---
+
+<details>
+<summary><b>Student Information Portal</b></summary>
+
+<br>
+
+### Project Overview
+
+A database-driven student management platform developed using **Python, Flask & MySQL**.
+
+| Category    | Details                              |
+| ----------- | ------------------------------------ |
+| Stack       | Python, Flask, MySQL, HTML5, CSS3    |
+| Scale       | Student Data Management              |
+| Performance | Efficient CRUD Operations            |
+| Security    | Secure DB Integration                |
+| Impact      | Improved Flask backend understanding |
+| Repository  | Coming Soon                          |
+
+### Key Features
+
+* Student Data Management
+* CRUD Operations
+* Responsive UI
+* Flask Backend Integration
+
+</details>
+
+---
+
+<details>
+<summary><b>Virtual Freehand Control System</b></summary>
+
+<br>
+
+### Project Overview
+
+An AI-powered **computer vision project** enabling touchless computer control using hand gestures.
+
+| Category    | Details                              |
+| ----------- | ------------------------------------ |
+| Stack       | Python, OpenCV, MediaPipe, PyAutoGUI |
+| Scale       | Real-time Gesture Recognition        |
+| Performance | Low Latency Processing               |
+| Security    | Local Device Processing              |
+| Impact      | Strengthened AI/ML practical skills  |
+| Repository  | Coming Soon                          |
+
+### Key Features
+
+* Cursor Movement
+* Gesture Recognition
+* Volume Control
+* Scroll & Click Actions
+* Real-time Webcam Processing
+
+</details>
+
+---
+
+# EXPERIENCE
+
+## MERN Stack Web Development Intern
+
+### Codec Tech IT Solutions
+
+**Dec 2025 – Apr 2026**
+
+Worked on responsive full-stack applications while improving backend engineering and authentication systems.
+
+### Scope of Work
+
+* Built responsive pages using **HTML, CSS, Bootstrap & JavaScript**
+* Developed backend systems using **Node.js & Express.js**
+* Worked with **MySQL database operations**
+* Implemented authentication systems
+* Built multiple full-stack mini projects
+* Used **Git & GitHub** for version control
+
+### Skills Applied
+
+`Node.js` `Express.js` `MySQL` `Git` `GitHub` `Backend Development`
+
+---
+
+# ACHIEVEMENTS
+
+<div align="center">
+
+| Recognition     | Details                                     |
+| --------------- | ------------------------------------------- |
+| Problem Solving | Solved 50+ coding problems in Python & SQL  |
+| Hackathons      | Participated in college coding competitions |
+| GitHub Learning | Active contributor to learning projects     |
+
+</div>
+
+---
+
+
 
 
