@@ -59,15 +59,19 @@ Currently sharpening skills in AI Engineering, Machine Learning, Backend Systems
 <div align="center">
 
 ### Languages
+
 <img src="https://skillicons.dev/icons?i=python,javascript" />
 
 ### Frontend
+
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
 
 ### Backend & Databases
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql" />
 
 ### Tools & Platforms
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
@@ -78,13 +82,13 @@ Currently sharpening skills in AI Engineering, Machine Learning, Backend Systems
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|--------|------------|--------|
-| Artificial Intelligence | Intermediate | Exploring intelligent systems & automation |
-| Machine Learning | Beginner–Intermediate | Learning model fundamentals & practical concepts |
-| Computer Vision | Intermediate | Built gesture-based interaction system using OpenCV & MediaPipe |
-| Python Development | Strong | Backend logic, automation & problem solving |
-| Problem Solving | Intermediate | Active coding practice in Python & SQL |
+| Domain                   | Proficiency           | Details                                                          |
+| ------------------------ | ---------------------- | ----------------------------------------------------------------- |
+| Artificial Intelligence  | Intermediate            | Exploring intelligent systems & automation                       |
+| Machine Learning         | Beginner–Intermediate   | Learning model fundamentals & practical concepts                 |
+| Computer Vision          | Intermediate            | Built gesture-based interaction system using OpenCV & MediaPipe  |
+| Python Development       | Strong                  | Backend logic, automation & problem solving                      |
+| Problem Solving          | Intermediate            | Active coding practice in Python & SQL                           |
 
 </div>
 
@@ -101,22 +105,23 @@ Currently sharpening skills in AI Engineering, Machine Learning, Backend Systems
 
 A secure **full-stack banking transaction system** built using **Node.js, Express.js, MySQL, EJS, and MVC Architecture.**
 
-| Category | Details |
-|----------|--------|
-| Stack | Node.js, Express.js, MySQL, EJS, HTML5, CSS3 |
-| Scale | Banking Transaction Simulation |
-| Performance | Optimized DB transactions |
-| Security | Session Authentication & PIN Verification |
-| Impact | Strengthened backend engineering skills |
-| Repository | Coming Soon |
+| Category    | Details                                      |
+| ----------- | --------------------------------------------- |
+| Stack       | Node.js, Express.js, MySQL, EJS, HTML5, CSS3  |
+| Scale       | Banking Transaction Simulation                |
+| Performance | Optimized DB transactions                     |
+| Security    | Session Authentication & PIN Verification     |
+| Impact      | Strengthened backend engineering skills       |
+| Repository  | Coming Soon                                   |
 
 ### Key Features
-- Deposit & Withdrawal
-- Balance Enquiry
-- PIN Verification
-- Transaction History
-- Session-based Authentication
-- MySQL Database Integration
+
+* Deposit & Withdrawal
+* Balance Enquiry
+* PIN Verification
+* Transaction History
+* Session-based Authentication
+* MySQL Database Integration
 
 </details>
 
@@ -131,20 +136,21 @@ A secure **full-stack banking transaction system** built using **Node.js, Expres
 
 A database-driven student management platform developed using **Python, Flask & MySQL.**
 
-| Category | Details |
-|----------|--------|
-| Stack | Python, Flask, MySQL, HTML5, CSS3 |
-| Scale | Student Data Management |
-| Performance | Efficient CRUD Operations |
-| Security | Secure DB Integration |
-| Impact | Improved Flask backend understanding |
-| Repository | Coming Soon |
+| Category    | Details                              |
+| ----------- | -------------------------------------- |
+| Stack       | Python, Flask, MySQL, HTML5, CSS3     |
+| Scale       | Student Data Management               |
+| Performance | Efficient CRUD Operations             |
+| Security    | Secure DB Integration                 |
+| Impact      | Improved Flask backend understanding  |
+| Repository  | Coming Soon                           |
 
 ### Key Features
-- Student Data Management
-- CRUD Operations
-- Responsive UI
-- Flask Backend Integration
+
+* Student Data Management
+* CRUD Operations
+* Responsive UI
+* Flask Backend Integration
 
 </details>
 
@@ -159,21 +165,22 @@ A database-driven student management platform developed using **Python, Flask & 
 
 An AI-powered **computer vision project** enabling touchless computer control using hand gestures.
 
-| Category | Details |
-|----------|--------|
-| Stack | Python, OpenCV, MediaPipe, PyAutoGUI |
-| Scale | Real-time Gesture Recognition |
-| Performance | Low Latency Processing |
-| Security | Local Device Processing |
-| Impact | Strengthened AI/ML practical skills |
-| Repository | Coming Soon |
+| Category    | Details                                |
+| ----------- | ---------------------------------------- |
+| Stack       | Python, OpenCV, MediaPipe, PyAutoGUI    |
+| Scale       | Real-time Gesture Recognition           |
+| Performance | Low Latency Processing                  |
+| Security    | Local Device Processing                 |
+| Impact      | Strengthened AI/ML practical skills      |
+| Repository  | Coming Soon                             |
 
 ### Key Features
-- Cursor Movement
-- Gesture Recognition
-- Volume Control
-- Scroll & Click Actions
-- Real-time Webcam Processing
+
+* Cursor Movement
+* Gesture Recognition
+* Volume Control
+* Scroll & Click Actions
+* Real-time Webcam Processing
 
 </details>
 
@@ -181,21 +188,25 @@ An AI-powered **computer vision project** enabling touchless computer control us
 
 # EXPERIENCE
 
-## MERN Stack Web Development Intern  
-### Codec Tech IT Solutions  
+## MERN Stack Web Development Intern
+
+### Codec Tech IT Solutions
+
 **Dec 2025 – Apr 2026**
 
 Worked on responsive full-stack applications while improving backend engineering and authentication systems.
 
 ### Scope of Work
-- Built responsive pages using HTML, CSS, Tailwind CSS, Bootstrap & JavaScript
-- Developed backend systems using Node.js & Express.js
-- Worked with MySQL database operations
-- Implemented authentication systems
-- Built multiple full-stack mini projects
-- Used Git & GitHub for version control
+
+* Built responsive pages using **HTML, CSS, Tailwind CSS, Bootstrap & JavaScript**
+* Developed backend systems using **Node.js & Express.js**
+* Worked with **MySQL database operations**
+* Implemented authentication systems
+* Built multiple full-stack mini projects
+* Used **Git & GitHub** for version control
 
 ### Skills Applied
+
 `Node.js` `Express.js` `MySQL` `Tailwind CSS` `Bootstrap` `Git` `GitHub` `Backend Development`
 
 ---
@@ -204,32 +215,16 @@ Worked on responsive full-stack applications while improving backend engineering
 
 <div align="center">
 
-| Recognition | Details |
-|-------------|--------|
-| Problem Solving | Solved 50+ coding problems in Python & SQL |
-| Hackathons | Participated in college coding competitions |
-| GitHub Learning | Active contributor to learning projects |
+| Recognition      | Details                                       |
+| ----------------- | ----------------------------------------------- |
+| Problem Solving   | Solved 50+ coding problems in Python & SQL     |
+| Hackathons        | Participated in college coding competitions    |
+| GitHub Learning   | Active contributor to learning projects        |
 
 </div>
 
 ---
 
-# CERTIFICATIONS
-
-<div align="center">
-
-### Codegnan IT Solutions
-(Kept unchanged)
-
-### Cisco Networking Academy
-(Kept unchanged)
-
-### EduSkills
-(Kept unchanged)
-
-</div>
-
----
 # CERTIFICATIONS
 
 <div align="center">
@@ -261,6 +256,9 @@ Worked on responsive full-stack applications while improving backend engineering
 </a>
 
 </div>
+
+---
+
 # CODING PROFILES
 
 <div align="center">
@@ -271,7 +269,65 @@ Worked on responsive full-stack applications while improving backend engineering
 
 </div>
 
+<br>
+
+
+# GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shyam-82&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4" />
+
+</div>
+
 ---
+
+# CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shyam-82&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%" />
+
+</div>
+
+<br>
+
+# CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Shyam-82/Shyam-82/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+<br>
+
+# CURRENT FOCUS
+
+```yaml
+Learning:
+  - AI Engineering
+  - Machine Learning
+  - Data Structures & Algorithms
+  - Backend Development
+
+Building:
+  - ATM Transaction Management System
+  - Student Information Portal
+  - Full Stack Applications with Tailwind CSS
+
+Exploring:
+  - Intelligent Systems
+  - AI Agents
+  - Scalable Backend Architectures
+
+Open_To:
+  - Software Engineering Internships
+  - Full Stack Development Roles
+  - AI / ML Opportunities
+```
+
+<br>
 
 # CONNECT WITH ME
 
