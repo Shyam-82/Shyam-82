@@ -230,7 +230,37 @@ Worked on responsive full-stack applications while improving backend engineering
 </div>
 
 ---
+# CERTIFICATIONS
 
+<div align="center">
+
+### Codegnan IT Solutions
+
+<a href="https://drive.google.com/file/d/1hNjfgOENzaRc4g8hPg8RfFrYz6_UB1GU/view?usp=sharing">
+<img src="https://img.shields.io/badge/Python-Certified-5D3FD3?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1hNjfgOENzaRc4g8hPg8RfFrYz6_UB1GU/view?usp=sharing">
+<img src="https://img.shields.io/badge/MySQL-Certified-6A0DAD?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+
+<br><br>
+
+### Cisco Networking Academy
+
+<a href="https://drive.google.com/file/d/1JHvBYv5Rkd3nn4KJAEu5dKJKp2PIheet/view?usp=sharing">
+<img src="https://img.shields.io/badge/Python%20Essentials-Cisco-1E3A8A?style=for-the-badge&logo=cisco&logoColor=white"/>
+</a>
+
+<br><br>
+
+### EduSkills
+
+<a href="https://drive.google.com/file/d/11nHzoU94T6L1ypg7lw4ph-0BXThK9JC2/view?usp=sharing">
+<img src="https://img.shields.io/badge/AI--ML-Certified-7F00FF?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</a>
+
+</div>
 # CODING PROFILES
 
 <div align="center">
